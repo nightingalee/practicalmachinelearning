@@ -2,9 +2,7 @@
 title: "Practical Machine Learning Course Project: quantifying exercise quality"
 author: "Chunle Xiong"
 date: "17 January 2017"
-output: 
-  html_document: 
-    keep_md: yes
+output: html_document
 ---
 
 ```{r setup, include=FALSE}
